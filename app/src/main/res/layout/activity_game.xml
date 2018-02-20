@@ -51,6 +51,7 @@
         android:orientation="horizontal">
 
         <Button
+            android:id="@+id/answer1"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginRight="10dp"
@@ -58,6 +59,7 @@
             android:textSize="56sp" />
 
         <Button
+            android:id="@+id/answer2"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginRight="10dp"
@@ -65,6 +67,7 @@
             android:textSize="56sp" />
 
         <Button
+            android:id="@+id/answer3"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="6"
